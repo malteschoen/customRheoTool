@@ -1,0 +1,2 @@
+customRheoFilmFoam.C
+EXE = $(FOAM_USER_APPBIN)/customRheoFilmFoam
